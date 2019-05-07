@@ -1,0 +1,10 @@
+[core]
+	bare = true
+	repositoryformatversion = 0
+	filemode = false
+	symlinks = false
+	ignorecase = true
+[remote "upstream"]
+	url = https://github.com/1445023633/tablgGO.git
+	fetch = +refs/heads/*:refs/remotes/upstream/*
+	pushurl = https://github.com/1445023633/tablgGO.git
